@@ -7,4 +7,4 @@ def display_board(board)
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board[5] = "X"
+puts board[5] = " X "
